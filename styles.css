@@ -1,0 +1,40 @@
+
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: skyblue;
+}
+
+.logo {
+    max-height: 100px;
+}
+
+.title-hold {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #0040a6;
+    color: skyblue;
+}
+
+.char-hold {
+    display: flex;
+    align-items: center;
+    margin: 5vh 20vw;
+    padding: 20px;
+    background-color: #0040a6;
+    border: 5px solid black;
+    border-radius: 5px;
+    color: skyblue;
+
+}
+
+.text-hold {
+    /* display: flex;
+    flex-direction: column; */
+    padding-left: 20px;
+}
+
+.italic {
+    font-style: italic
+}
